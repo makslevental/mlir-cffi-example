@@ -1,0 +1,7 @@
+cmake-build-debug
+*.so
+*.o
+_pi_cffi.c
+*egg*
+build
+.idea
